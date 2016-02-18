@@ -34,3 +34,8 @@ master?  What benefits does each approach have?
     do not go well.Work on the master will free us from the task of merging our
     code, which has to be done in the case of working on a separate branch.
     
+    We could make our changes directly to the master branch, but when contributing to 
+    a public repository, it’s standard practice to make the changes in a non-master 
+    branch. This way, we can easily keep our master branch up-to-date with master of 
+    the original repository, and merge changes from master into our branch when we are ready.
+    
