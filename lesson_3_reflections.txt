@@ -27,4 +27,10 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When working in a team,experimenting on a new feature,solving a bug,etc, a 
+    separate branch is more appropriate.
+    
+    Working on a separate branch will preserve the master in case our experiments 
+    do not go well.Work on the master will free us from the task of merging our
+    code, which has to be done in the case of working on a separate branch.
+    
